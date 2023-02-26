@@ -26,6 +26,12 @@
     "Enum:BookType.5": "Terror",
     "Enum:BookType.6": "Ciencia",
     "Enum:BookType.7": "Ciencia ficción",
-    "Enum:BookType.8": "Poesía"
+    "Enum:BookType.8": "Poesía",
+    "Permission:BookStore": "Libraría",
+    "Permission:Books": "Gestión libros",
+    "Permission:Books.Create": "Crear nuevos libros",
+    "Permission:Books.Edit": "Editar libros",
+    "Permission:Books.Delete": "Borrar libros"
+
   }
 }
