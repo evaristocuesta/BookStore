@@ -36,7 +36,12 @@
     "Permission:Authors": "Gestión de autores",
     "Permission:Authors.Create": "Crear nuevos autores",
     "Permission:Authors.Edit": "Editar autores",
-    "Permission:Authors.Delete": "Borrar autores"
+    "Permission:Authors.Delete": "Borrar autores",
+    "Menu:Authors": "Autores",
+    "Authors": "Autores",
+    "AuthorDeletionConfirmationMessage": "¿Estás seguro que quieres borrar el autor '{0}'?",
+    "BirthDate": "Fecha nacimiento",
+    "NewAuthor": "Nuevo autor"
 
   }
 }
